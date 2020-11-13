@@ -1,0 +1,9 @@
+{
+    "require": {
+        "fabpot/goutte": "^4.0",
+        "guzzlehttp/guzzle": "^7.2",
+        "phpoffice/phpspreadsheet": "^1.15",
+        "sunra/php-simple-html-dom-parser": "^1.5",
+        "kub-at/php-simple-html-dom-parser": "^1.9"
+    }
+}
